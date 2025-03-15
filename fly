@@ -1,4 +1,4 @@
-local flybutton = "e"
+local flybutton = "p"
 local flyspeed = 100
 local controls = {
 	front = "w",
